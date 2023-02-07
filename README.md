@@ -10,6 +10,7 @@
    3. `git commit -am "init"`
    4. `git remote add origin $URL_TO_YOUR_GITREPO`
    5. `git push -u origin main`
+   6. If it prompts for username and password, password is you github personal access token, which you need to generate first. Go to you github profile/settings/Developer settings/Personal access tokens/Tokens (classic). When generated, copy it and paste in as password in cmd/terminal. 
 
 ## Run locally
 You need node js installed locally on your computer.
