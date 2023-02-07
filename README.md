@@ -22,7 +22,7 @@ You need node js installed locally on your computer.
 Go to [DockerHub](https://hub.docker.com/). Sign up for an account with your email address.
 
 ## Deploy on Code Engine
-You need an account on Dockerhub to deploy the app on Code Engine.
+You need an account on Dockerhub to deploy the app on Code Engine. Make sure your github repository is public.
 1. Search for Code Engine in the IBM Catalog
 2. Press "Start creating" under "Start with source code"
 3. Choose your project
